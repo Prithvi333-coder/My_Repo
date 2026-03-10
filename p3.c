@@ -1,4 +1,4 @@
-//reverse
+/*reverse*/
 #include<stdio.h>
 int main()
 {
