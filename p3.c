@@ -4,7 +4,6 @@ int main()
 {
 int a[5];
 int i=0,j=0;
-printf("Hello\n");
 printf("Enter the array value\n");
 for(i=0;i<5;i++)
 	scanf("%d",a+i);
