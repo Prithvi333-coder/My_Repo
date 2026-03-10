@@ -1,4 +1,4 @@
-//Size of a datatype
+/*Size of a datatype*/
 
 #include<stdio.h>
 int main()
